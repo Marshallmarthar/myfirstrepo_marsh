@@ -1,1 +1,1 @@
-this is a repo of my life
+The lottery is a short by shirley jackson that was first published in the new yorker on june 26,1948. the story describes a fictional small american community that observes an annual tradition known as the lottery, which is intended to ensure a good harvest and purge the town of bad omens.
