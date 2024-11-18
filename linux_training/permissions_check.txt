@@ -1,0 +1,1 @@
+I used chmod 640 to finish task 3
