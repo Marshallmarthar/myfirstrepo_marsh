@@ -1,2 +1,0 @@
- cp ,mv ,echo >> ,rm and touch
-those are the list of commands used for Task2
